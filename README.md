@@ -1,7 +1,7 @@
 # Projetos em Power BI
 
 ## Sobre o Projeto
-Este projeto é uma coleção de dashboards e relatórios interativos criados no Power BI que fornecem insights valiosos sobre [inserir tópico ou dados específicos].
+Este projeto é uma coleção de dashboards e relatórios interativos criados no Power BI que fornecem insights valiosos sobre.
 
 ## Visualizações Incluídas
 - **Dashboard de Vendas**: Fornece uma visão geral das vendas com filtros interativos por região, produto e período.
@@ -9,7 +9,7 @@ Este projeto é uma coleção de dashboards e relatórios interativos criados no
 - **Relatório Financeiro**: Apresenta uma análise detalhada da saúde financeira da empresa.
 
 ## Como Usar
-1. **Clone o repositório**: `git clone [URL do seu repositório]`
+1. **Clone o repositório**:
 2. **Abra o Power BI Desktop**.
 3. **Importe o arquivo `.pbix`**: Vá para 'Arquivo' > 'Importar' > 'Power BI report'.
 4. **Atualize os dados**: No painel 'Dados', clique em 'Atualizar tudo'.
