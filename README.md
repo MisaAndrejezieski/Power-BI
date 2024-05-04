@@ -19,18 +19,11 @@ Este projeto é uma coleção de dashboards e relatórios interativos criados no
 - **DAX**: Linguagem de fórmulas usada para processamento de dados e cálculos.
 - **SQL Server**: Banco de dados para armazenar e gerenciar os dados do projeto.
 
-## Contribuições
-Contribuições são sempre bem-vindas! Por favor, leia o arquivo `CONTRIBUTING.md` para mais detalhes sobre como contribuir para este projeto.
-
-## Licença
-Este projeto está sob a licença [inserir tipo de licença]. Veja o arquivo `LICENSE.md` para mais detalhes.
-
 ## Contato
-- **Nome**: [Seu Nome]
-- **Email**: [Seu Email]
-- **LinkedIn**: [Seu LinkedIn]
+- **Email**: misaelandrejezieski130982@outlook.com
+- **LinkedIn**: https://www.linkedin.com/in/misael-andrejezieski-b4996720a/
 
 ---
 
-Feito com ❤️ e ☕ por [Seu Nome].
+Feito com ❤️ e ☕ por Misa.
 
